@@ -1,0 +1,7 @@
+[
+    {"click": "../sounds./click.wav"},
+    {"acierto": "../sounds./acierto.wav"},
+    {"error": "../sounds./error.wav"},
+    {"ganar": "../sounds./ganar.wav"},
+    {"perder": "../sounds./perder.wav"}
+]
